@@ -17,7 +17,9 @@ A simple and elegant counter application built using **HTML, CSS, and JavaScript
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-(./counter_ss.png)
+## 📸 Preview
+![Counter App Screenshot](./counter_ss.png)
+
 ## 🚀 Live Demo
 👉 https://your-username.github.io/taptally/
 
