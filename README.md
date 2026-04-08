@@ -10,6 +10,9 @@ A simple and elegant counter application built using **HTML, CSS, and JavaScript
   - Red → Negative values
   - Default → Zero
 - 💻 Clean and responsive UI
+- 
+## 🚀 Live Demo
+👉 https://your-username.github.io/taptally/ 
 
 ## 🛠️ Tech Stack
 - HTML5
@@ -20,7 +23,6 @@ A simple and elegant counter application built using **HTML, CSS, and JavaScript
 ## 📸 Preview
 ![Counter App Screenshot](./counter_ss.png)
 
-## 🚀 Live Demo
-👉 https://your-username.github.io/taptally/
 
-## 📂 Project Structure
+
+
