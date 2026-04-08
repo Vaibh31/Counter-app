@@ -19,7 +19,6 @@ A simple and elegant counter application built using **HTML, CSS, and JavaScript
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-## 📸 Preview
 ![Counter App Screenshot](./counter_ss.png)
 
 
