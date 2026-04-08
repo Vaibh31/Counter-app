@@ -12,8 +12,7 @@ A simple and elegant counter application built using **HTML, CSS, and JavaScript
 - 💻 Clean and responsive UI
 - 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/taptally/ 
-
+👉(https://vaibh31.github.io/Counter-app/)
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
