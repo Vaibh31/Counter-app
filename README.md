@@ -12,7 +12,7 @@ A simple and elegant counter application built using **HTML, CSS, and JavaScript
 - 💻 Clean and responsive UI
 - 
 ## 🚀 Live Demo
-👉(https://vaibh31.github.io/Counter-app/)
+👉(https://vaibh31.github.io/Counter-website/)
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
